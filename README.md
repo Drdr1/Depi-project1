@@ -1,5 +1,6 @@
 # ![logo](https://github.com/user-attachments/assets/0c19ad34-bb3c-4248-abbb-5550371e29b9)
 # Jenkins CI/CD Pipeline Project using Ansible, Docker, Github Webhooks on AWS
+# ![depi](https://github.com/user-attachments/assets/3e9ccbdc-3302-49be-9aa2-06e77b436d05)
 
 
 ## Overview:

@@ -6,7 +6,7 @@ pipeline {
             steps {
                 script {
                     // Execute the SCP command to copy files
-                    sh 'scp -r /var/lib/jenkins/workspace/ansible-jenkins-pipeline/* root@52.90.151.102:~/project/'
+                    sh 'scp -r /var/lib/jenkins/workspace/ansible-jenkins-pipeline/* root@44.205.158.129:~/project/'
                 }
             }
         }
